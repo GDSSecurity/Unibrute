@@ -1,0 +1,1 @@
+Unibrute is a multi-threaded SQL injection union bruteforcer. This is used for finding simple data types on databases that do not support NULL (i.e. Oracle 8).
